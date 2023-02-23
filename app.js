@@ -11,7 +11,7 @@ mongoose.connect('mongodb://localhost:27017/baseultima',{
     if (err){
         console.log(err)
     } else {
-        console.log('conectado')
+        console.log('conectado ya')
     }
 }
 )
